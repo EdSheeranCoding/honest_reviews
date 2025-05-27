@@ -1,7 +1,7 @@
 """
 Simple steering experiment for dishonesty, with the prompts in `dishonesty_dataset.json`
 
-This is a reproduction of the steering-vecotrs library, but for dishonesty and with transformer_lens
+This is a reproduction of the steering-vectors library, but for dishonesty and with transformer_lens
 
 
 """
